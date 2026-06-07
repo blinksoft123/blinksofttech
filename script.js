@@ -165,7 +165,7 @@ function initContactForm() {
       // Simulate network request
       setTimeout(() => {
         // Show success alert
-        alert('Merci pour votre message ! Notre équipe BLINKSOFTTECH vous contactera dans les plus brefs délais.');
+        alert('Merci ! Votre demande d\'audit gratuit a bien été prise en compte. Un conseiller de BLINKSOFTTECH vous contactera dans les plus brefs délais.');
         
         // Reset form
         form.reset();
